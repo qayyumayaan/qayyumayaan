@@ -14,6 +14,7 @@
 - PyTorch
 - TensorFlow
 - Sci-kit Learn
+- Apache Spark
 - Linux
 - MATLAB
 - Git/GitHub/VCS
