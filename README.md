@@ -19,7 +19,6 @@
 - MATLAB
 - Git/GitHub/VCS
 - Networking and networking architecture (TCP/IP)
-- Cybersecurity / Pentesting
 - HTML / JavaScript
 - MPI, Socket, Ansible
 
